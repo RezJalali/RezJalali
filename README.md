@@ -1,5 +1,5 @@
-👋 Hi, I’m Rza Jalali, I've studied civil and environmental engineering. My main research interests is using AI cmobined with RS and GIS in order to study
-water bodies and solve environmental issues.
+👋 Hi, I’m Rza Jalali, I've studied civil and environmental engineering. My main research interest is to combine AI with RS and GIS in order to study
+water bodies and analyze spatial environmental problems.
 
 I am a student of the earth !
 
